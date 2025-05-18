@@ -12,7 +12,9 @@ public class FullscreenActivity extends AppCompatActivity {
             R.drawable.image1,
             R.drawable.image2,
             R.drawable.image3,
-            R.drawable.image4
+            R.drawable.image4,
+            R.drawable.image4,
+            R.drawable.image1
     );
 
     @Override
